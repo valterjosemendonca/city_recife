@@ -9,4 +9,5 @@
   Com destaque especial para o nosso Bloco de carnaval Galo da madrugada, um dos pontos mais icônicos e amados por quem vive ou visita aqui.</p>
   <h3>Tecnologia usada HTML </h3>
   <p>O próposito era fazer uma página simple com html e um link para outra página dentro do mesmo projeto ou seja lincando uma página a outra. <br> Usei  as tag semânticas do html</p>
+  <p>Foi implementado um pouco de Css neste projeto</p>
  
